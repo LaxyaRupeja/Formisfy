@@ -22,7 +22,7 @@ export const Testimonials = () => {
         <div className="grid grid-cols-1 gap-8 lg:grid-cols-3 lg:items-center lg:gap-16">
           <div className="max-w-xl text-center ltr:sm:text-left rtl:sm:text-right">
             <h2 className="text-3xl font-bold tracking-tight text-left text-gray-900 sm:text-4xl">
-              Don't just take our word for it...
+              Don&apos;t just take our word for it...
             </h2>
 
             <p className="mt-4 text-gray-700 text-left">
@@ -131,7 +131,7 @@ export const Testimonials = () => {
 
                     <div className="mt-4">
                       <p className="text-2xl font-bold text-blue-600 sm:text-3xl">
-                        Stayin' Alive
+                        Stayin&apos; Alive
                       </p>
 
                       <p className="mt-4 leading-relaxed text-gray-700">
@@ -202,7 +202,7 @@ export const Testimonials = () => {
 
                     <div className="mt-4">
                       <p className="text-2xl font-bold text-blue-600 sm:text-3xl">
-                        Stayin' Alive
+                        Stayin Alive
                       </p>
 
                       <p className="mt-4 leading-relaxed text-gray-700">
@@ -273,7 +273,7 @@ export const Testimonials = () => {
 
                     <div className="mt-4">
                       <p className="text-2xl font-bold text-blue-600 sm:text-3xl">
-                        Stayin' Alive
+                        Stayin Alive
                       </p>
 
                       <p className="mt-4 leading-relaxed text-gray-700">
